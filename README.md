@@ -1,3 +1,9 @@
+**Text-Encryption**
+• Converts plaintext into ciphertext to protect data from unauthorized access.
+• Utilizes encryption algorithms like AES, RSA, or SHA to secure sensitive information.
+• Ensures safe transmission by making data readable only to authorized users or systems.
+**Tech:** Text Encryption uses AES, RSA, or DES with Python, Java, JavaScript, or OpenSSL for secure data protection.
+
 AES and DES both are in PyCryptodome package, so command is : " **pip install pycryptodome** "
 
 For RSA package install command is : " **pip install rsa** "
